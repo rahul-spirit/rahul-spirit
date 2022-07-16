@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rahul Singh Maraskole
-- 👀 I’m a Blockchain Develoepr at Retcons Technology 
+- 👀 I’m a Blockchain Develoepr at Airchains Network
 - 🌱 I have knowledge of Javascript, React JS, Next JS, Solidity and Web 3 
 - 📫 To contact me email me at 📧 :- rsm050501@gmail.com
 - 
